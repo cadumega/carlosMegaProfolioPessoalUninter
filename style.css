@@ -717,3 +717,22 @@ label {
     /* margin: 0 auto; */
     display: flex;
 }
+
+#imgcircle{
+    border-radius: 50%;
+    width: 200px;
+
+}
+
+#circleimg {
+    display: flex;
+    justify-content: center;
+}
+
+#section1{
+    background-color: #1AA689;
+    color: white;
+}
+
+#section2{
+}
